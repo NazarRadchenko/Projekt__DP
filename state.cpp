@@ -1,4 +1,3 @@
-#include "stdafx.h"
 //dp state
 
 #include <cstdio>
